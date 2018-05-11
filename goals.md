@@ -14,7 +14,7 @@
 * Learn more about Selenium-found a few tutorials on Udemy, including https://www.udemy.com/testunit/.
 * Research Jira to develop a understanding of it's use and power in the QA world; I've found a few tutorials on Youtube, which I plan to explore.
 * Utilize Udemy to learn more about QA methodologies, DevOps, and Python.
-* Practice white-boarding with Ruby and JavaScript .
+* Research white-boarding problems for Ruby and JavaScript and practice them.
 * Build on my understanding of PostgreSQL and explore database management further (Book: PostgreSQL: Up and Running).
 * Develop 1 year, 3 year, and 5 year plans career plans.
 * Investigate start up scene in Portland and prioritize applying for these companies,  specifically Jama Software, Opal, Cloudability, and Cedexis.

@@ -37,6 +37,7 @@ _To suggest changes, submit a pull request in the GitHub repository._
 * Ruby 2.4.1
 * Rails 5.2.0
 * JavaScript
+* PostgreSQL
 * HTML
 * CSS
 * Ruby Gems
