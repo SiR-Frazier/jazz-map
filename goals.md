@@ -24,10 +24,10 @@
 * Work on testing knowledge and building on the practices developed at Epicodus.
 * Connect with Engineers from previous job at Airbnb and build those relationships.
 
-## Top Priorities
+# Top Priorities
 * 1. Get a job in Technical Support, QA, or Product Management. (10)
 * 2. Build a better understanding of testing and product management methodologies and technologies. (9-10)
-* 3. Network constantly at meetups, LinkedIn, etc. (8-9).
+* 3. Network constantly and regularly attend meet-ups, LinkedIn, etc. (8-9).
 
 # Action Plan:
-   Securing my first job post-Epicodus is priority number one for me. Over the past two weeks, I've applied to 6 positions ranging from software developer to QA. Once classes end, I plan to focus on applications  and to apply to 3-4 positions per week. In order to maximize my efficiency, I must continue to build a solid network within the Portland tech community, which includes connecting with colleagues from Airbnb and attending frequent meet-ups. By being active in this sense, I can leverage my interpersonal skills with my growing understanding of software development.
+   Securing my first job post-Epicodus is priority number one . Over the past two weeks, I've applied to 6 positions ranging from software developer to QA. Once classes end, I plan to focus on applications and to apply to 3-4 positions per week. In order to maximize my efficiency, I must continue to build a solid network within the Portland tech community, which includes connecting with colleagues from Airbnb and attending frequent meet-ups. By being active in this sense, I can leverage my interpersonal skills with my growing understanding of software development.
