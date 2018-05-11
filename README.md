@@ -1,6 +1,6 @@
 # Jazz Map: A Guide to 21st Century Jazz
 
-#### By Bryce Frazier
+#### By Bryce Frazier May 11, 2018
 
 #### An application where music aficionados can add and explore contemporary jazz from artists and labels across the globe.
 
@@ -15,12 +15,15 @@ _Run bundle install in the terminal._
 
 _
 
-## Known Bugs:
+## User Stories:
+
+
+## Known Bugs: N/A
 
 ## Support and contact details:
 _To suggest changes, submit a pull request in the GitHub repository._
 
-## Technologies Used
+## Technologies Used:
 
 * Ruby 2.4.1
 * Rails 5.2.0
@@ -29,7 +32,7 @@ _To suggest changes, submit a pull request in the GitHub repository._
 * CSS
 * Ruby Gems
 
-## Further Exploration
+## Further Exploration:
 
 ## License
 
@@ -42,3 +45,5 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+# gem 'bcrypt', '~> 3.1.7'
