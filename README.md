@@ -5,7 +5,7 @@
 #### An application where music aficionados can add and explore contemporary jazz from artists and labels across the globe.
 
 #### Description
-_This site was designed to connect jazz fans with the new and established figures in the jazz world from Los Angeles to London. The application will be community centered, allowing users to create their own account and to post albums for the community to check out. Numerous artists and labels are added as a starting point for users to explore and offer their own comments on them._
+_This site was designed to connect jazz fans with the new and established figures in the jazz world from Los Angeles to London. The application will be community centered, allowing users to create their own account and to post albums/artists for the community to explore. Numerous artists and albums were added as a starting point for users to explore and offer their own comments on them._
 
 #### Install/Setup instructions
 
@@ -17,6 +17,15 @@ _
 
 ## User Stories:
 
+* As a user, I want to be able to sign-up and sign-in.
+
+* As a user, I want to be able to view profiles on rising stars in the jazz community.
+
+* As a user, I want to be able to add a new album or artist to the platform.
+
+* As a user, I want to be able to add a review/comment to an existing album.
+
+* As a user, I can view upcoming albums in 2018.
 
 ## Known Bugs: N/A
 
