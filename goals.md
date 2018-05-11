@@ -4,14 +4,14 @@
 * Complete Jazz-Map capstone project.
 * Work through Secrets of the Javascript Ninja
 * Finish The Well Grounded Rubyist.
-* Work on my debugging/ troubleshooting skills with Javascript and Ruby.
-* Refine and trim down my Github. Goal is about 45-65 projects.
+* Work on my debugging/ troubleshooting skills with Javascript and Ruby, honing best practices.
+* Refine and trim down my Github. Goal is about 45-65 crafted projects.
 * Apply for two - three jobs per week, focusing on Product Management, Technical Support, QA Engineering, Developer Support, and Developer Advocate roles.
 * Attend 3 Meetups per week, specifically SQUAGPDX (QA), Ruby Brigade, Agile, and Ask a Dev.
 * Proactively connect with tech professionals on LinkedIn. Prioritize building relationships with individuals at companies that I'm applying at.
 * Continue to build/ foster relationships with friends and acquaintances in tech.
-* Invest time in learning more about Agile methodologies.
-* Learn more about Selenium-found a few tutorials on Udemy.
+* Invest time in learning more about Agile methodologies. I plan to take this Udemy course: https://www.udemy.com/best-manual-software-testing-live-project-agile-jira/.
+* Learn more about Selenium-found a few tutorials on Udemy, including https://www.udemy.com/testunit/.
 * Research Jira to develop a understanding of it's use and power in the QA world; I've found a few tutorials on Youtube, which I plan to explore.
 * Utilize Udemy to learn more about QA methodologies, DevOps, and Python.
 * Practice white-boarding with Ruby and JavaScript .
