@@ -10,9 +10,9 @@
   text-align: center;
 }
 
-#nav {
+/*#nav {
   color: #f3c753;
-}
+}*/
 
 ul {
   list-style: none;
@@ -29,6 +29,10 @@ h2, ul {
 li, p {
   font-family: 'Poiret One', cursive;
   font-size: 1.5em;
+}
+
+.row {
+  padding: 15px;
 }
 
 .card-header {
