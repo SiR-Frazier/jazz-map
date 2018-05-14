@@ -1,18 +1,17 @@
 class SpotlightsController < ApplicationController
 
-  def new
-    @artist = Artist.find(params[:id])
-    @artist = Artist.new
-  end
-
   def index
-    @artist = Artist.find(params[:id])
-    @artist = Artist.find(params[:name])
+    @artists = Artist.all
     render :index
-  end
+  end  
+  # def new
+  #   @artist = Artist.find(params[:id])
+  #   @artist = Artist.new
+  # end
 
-  def show
-    @artist = Artist.find(params[:name])
-    render :spotlights_path
-  end
+  # #
+  # def show
+  #   @artist = Artist.find(params[:name])
+  #   render :show
+  # end
 end
