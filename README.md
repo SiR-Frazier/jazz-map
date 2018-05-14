@@ -11,7 +11,13 @@ _This site was designed to connect jazz fans with the new and established figure
 
 _Clone Git repository: https://github.com/SiR-Frazier/jazz-map
 
-_Run bundle install in the terminal._
+_Run bundle install in the terminal_
+
+_Run $ bundle install in terminal_
+
+_Run $ rake db:create in terminal_
+
+_
 
 _
 
