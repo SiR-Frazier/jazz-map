@@ -8,9 +8,18 @@
 }
 
 body {
-  /*background-color: #f3c753;*/
+  background-color: #f3c753;
 }
 
-h2 {
-  /*font-family: 'Permanent Marker', cursive;*/
+h2, ul {
+  font-family: 'Permanent Marker', cursive;
+}
+
+li, p {
+  font-family: 'Poiret One', cursive;
+  font-size: 1.5em;
+}
+
+.card-header {
+  text-align: center;
 }

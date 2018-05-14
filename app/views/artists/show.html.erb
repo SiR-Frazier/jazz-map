@@ -1,8 +1,18 @@
-<h1><%= @artist.name %></h1>
-<h2>Website: <%= link_to  @artist.artist_site %></h2>
-<h2>Discography<%=@artist.discography %></h2>
-<h2>Artist Bio:</h2>
-  <p><%=@artist.biography %></p>
-
-
-<p><%= link_to "Return to artists", artists_path %></p>
+<div class="card">
+  <div class="card-header">
+    <h2><%= @artist.name %></h1>
+  </div>
+  <div class="card-body">
+    <h2>Website:</h2>
+    <p><%= link_to  @artist.artist_site %></p>
+    <br>
+    <h2>Discography:</h2>
+    <p><%=@artist.discography %></p>
+    <br>
+    <h2>Artist Bio:</h2>
+      <p><%=@artist.biography %></p>
+  </div>
+  <div class="card-footer">
+    <p><%= link_to "Home", artists_path %></p>
+  </div>
+</div>
