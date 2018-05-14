@@ -15,11 +15,11 @@ _Run bundle install in the terminal_
 
 _Run $ bundle install in terminal_
 
-_Run $ rake db:create in terminal_
+_Run $ rake db:create_
 
-_
+_Run $ rake db:migrate_
 
-_
+_Go to localhost:3000 in your preferred browser_
 
 ## User Stories:
 
