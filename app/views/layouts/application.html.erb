@@ -12,14 +12,18 @@
 
   <body>
     <div class="jumbotron">
+      <nav>
+        <div class="nav-wrapper">
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><%= link_to 'Home', artists_path %></li>
+            <li><%= link_to 'Sign-Up', new_user_registration_path %></li>
+            <li><%= link_to 'Sign-In', new_user_session_path %></li>
+          </ul>
+        </div>
+      </nav>
       <h1 id="header">Jazz Map</h1>
       <h2>A Guide to</h2>
       <h2>21st Century Jazz</h2>
-    </div>
-    <div class="nav-wrapper">
-      <ul id="nav mobile" class="right hode-on-med-and-down">
-        <li><%= link_to 'Sign-Up', new_user_registration_path %></li>
-        <li><%= link_to 'Sign-In', new_user_session_path %></li>
     </div>
     <%= yield %>
   </body>
