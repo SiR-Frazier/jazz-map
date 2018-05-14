@@ -10,6 +10,10 @@
   text-align: center;
 }
 
+#nav {
+  color: #f3c753;
+}
+
 ul {
   list-style: none;
 }
