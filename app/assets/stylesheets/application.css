@@ -50,6 +50,10 @@ li, p {
    margin-left: 50px;
  }
 
+ image1 {
+   border:0;
+ }
+
  img {
   width: 35%;
   height: inherit;
