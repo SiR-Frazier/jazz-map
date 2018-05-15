@@ -39,6 +39,6 @@ li, p {
   text-align: center;
 }
 
-#video1 {
-  float: right;
+#spotlight a {
+  text-decoration: none;
 }
