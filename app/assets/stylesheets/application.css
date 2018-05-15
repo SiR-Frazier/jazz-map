@@ -22,13 +22,17 @@ body {
   background-color: #f3c753;
 }
 
-h2, ul {
+h2, ul, #spotlight-page {
   font-family: 'Permanent Marker', cursive;
 }
 
 li, p {
   font-family: 'Poiret One', cursive;
   font-size: 1.5em;
+}
+
+#spotlight-page {
+  text-align: center;
 }
 
 .row {
@@ -42,3 +46,12 @@ li, p {
 #spotlight a {
   text-decoration: none;
 }
+ #card1 {
+   margin-left: 50px;
+ }
+
+ img {
+  width: 35%;
+  height: inherit;
+  float: center;
+ }
