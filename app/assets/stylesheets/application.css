@@ -48,6 +48,7 @@ li, p {
 }
  #card1 {
    margin-left: 50px;
+   opacity: .70;
  }
 
  image1 {
@@ -56,6 +57,7 @@ li, p {
 
  img {
   width: 35%;
+  margin-left: 10%;
   height: inherit;
   float: center;
  }
