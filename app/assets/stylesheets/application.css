@@ -56,8 +56,10 @@ li, p {
  }
 
  img {
-  width: 35%;
+  width: 350px;
+  height: auto;
   margin-left: 10%;
+  margin-top: 10%;
   height: inherit;
   float: center;
  }
