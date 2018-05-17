@@ -10,7 +10,7 @@
     <br>
     <br>
     <div>
-      <h2>Artist Index</h2>
+      <h2 class="index">Artist Index</h2>
         <ul>
           <% @artists.each do |artist| %>
             <li><%= link_to artist.name, artist_path(artist) %></li>

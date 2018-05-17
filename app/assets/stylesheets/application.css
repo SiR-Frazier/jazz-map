@@ -22,13 +22,19 @@ body {
   background-color: #f3c753;
 }
 
-h2, ul, #spotlight-page {
+h2, h3, #spotlight-page {
   font-family: 'Permanent Marker', cursive;
+  text-decoration: underline;
 }
 
 li, p {
   font-family: 'Poiret One', cursive;
   font-size: 1.5em;
+}
+
+.spotlight-break {
+  height:1px;
+  background-color: black;
 }
 
 #spotlight1, #spotlight2, #spotlight3 {
@@ -77,6 +83,10 @@ li, p {
    border: 0;
    max-width: 200px;
    max-height: 150px;
+ }
+
+ #song3 {
+   padding-top: 15px;
  }
 
  img {
