@@ -61,8 +61,18 @@ li, p {
    padding-top: 15px;
  }
 
- image1 {
-   border:0;
+ .image1 {
+   border: 0;
+ }
+
+ #song2 {
+  padding-top: 15px;
+ }
+
+ .image2 {
+   border: 0;
+   max-width: 200px;
+   max-height: 150px;
  }
 
  img {
