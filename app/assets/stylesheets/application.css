@@ -31,6 +31,10 @@ li, p {
   font-size: 1.5em;
 }
 
+#spotlight1, #spotlight2, #spotlight3 {
+  text-align: justify;
+}
+
 #spotlight-page {
   text-align: center;
 }
