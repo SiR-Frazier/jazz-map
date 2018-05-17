@@ -46,9 +46,19 @@ li, p {
 #spotlight a {
   text-decoration: none;
 }
+
+#artist-info {
+   opacity: .68;
+}
+
  #card1 {
    margin-left: 50px;
-   opacity: .70;
+   opacity: .68;
+   margin-bottom: 25px;
+ }
+
+ #song1 {
+   padding-top: 15px;
  }
 
  image1 {
